@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Tns_Training {
-}
