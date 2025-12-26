@@ -1,7 +1,7 @@
 //Program to demonstrate Single level inheritance with this and super keywords
 package com.tnsif.oops.inheritance.singleinheritance;
 
-public class Citizen {
+public  class Citizen {
 	private String name;
 	private String aadharNo;
 	private String address;

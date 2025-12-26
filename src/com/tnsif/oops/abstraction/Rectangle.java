@@ -18,6 +18,13 @@ public class Rectangle extends Shape{
 	void calArea() {
 		area=width*height;		
 	}
+
+	@Override
+	void greeting() {
+		System.out.println("hii im rectangle");
+		
+	}
+	
 	
 
 }

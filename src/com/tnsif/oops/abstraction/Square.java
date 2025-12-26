@@ -16,5 +16,11 @@ public class Square extends Shape{
 	void calArea() {
 		super.area=side*side;		
 	}
+	@Override
+	void greeting() {
+		System.out.println("hii im square");
+		
+	}
+	
 }
 

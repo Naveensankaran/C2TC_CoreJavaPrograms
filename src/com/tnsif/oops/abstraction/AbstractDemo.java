@@ -9,8 +9,11 @@ public class AbstractDemo {
 		Rectangle r1=new Rectangle();
 		sq.calArea();
 		sq.show();
+		sq.greeting();
 		r1.calArea();
 		r1.show();
+		r1.greeting();
+		
 		
 		System.out.println("------------------------------------------------");
 		
@@ -26,11 +29,6 @@ public class AbstractDemo {
 		shape.calArea(); 
 		shape.show();
 		
-		
-		
-		
-		
-
 	}
 
 }
